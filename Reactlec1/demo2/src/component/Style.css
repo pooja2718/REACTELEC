@@ -1,0 +1,39 @@
+container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: blue;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+  }
+  
+  .header ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .header ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .header ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .main-content {
+    min-height: 60vh;
+  }
+
+  .footer {
+    background-color: blue;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
